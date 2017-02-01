@@ -473,20 +473,17 @@ h6,
   color: #c0a375!important;
 }
 #msg-box5-a H3 {
-  color: #ffffff;
+  color: #000000;
+}
+#content2-8 P {
+  font-size: 15px;
 }
 #header3-1g .mbr-section-title,
 #header3-1g .mbr-section-subtitle {
   text-align: center;
 }
-#header3-1g H3 {
-  color: #ffffff;
-}
 #features2-1h .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #1d1d1d;
-}
-#content2-8 P {
-  font-size: 15px;
+  background-color: #2e2e2e;
 }
 #ext_menu-d .hide-buttons .nav-btn {
   display: none !important;
