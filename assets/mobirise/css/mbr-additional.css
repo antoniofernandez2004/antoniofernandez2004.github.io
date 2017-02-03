@@ -472,7 +472,11 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box5-a H3 {
+#header2-1i .mbr-section-title {
+  color: #000000;
+  text-align: left;
+}
+#header2-1i .mbr-section-text {
   color: #000000;
 }
 #content2-8 P {
