@@ -550,6 +550,12 @@ h6,
 #ext_menu-d .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#msg-box5-1n H3 {
+  color: #000000;
+}
+#msg-box5-1n P {
+  color: #000000;
+}
 #ext_menu-f .hide-buttons .nav-btn {
   display: none !important;
 }
