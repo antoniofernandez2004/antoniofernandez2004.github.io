@@ -36,7 +36,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 2
       },
       "components": [
         {
@@ -488,7 +489,9 @@
       ]
     },
     "photoshop.html": {
-      "settings": {},
+      "settings": {
+        "order": 3
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -858,7 +861,9 @@
       ]
     },
     "premier.html": {
-      "settings": {},
+      "settings": {
+        "order": 4
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -1004,7 +1009,9 @@
       ]
     },
     "illustrator.html": {
-      "settings": {},
+      "settings": {
+        "order": 5
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -1150,7 +1157,9 @@
       ]
     },
     "audition.html": {
-      "settings": {},
+      "settings": {
+        "order": 6
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -1296,7 +1305,9 @@
       ]
     },
     "123D.html": {
-      "settings": {},
+      "settings": {
+        "order": 7
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -1442,7 +1453,9 @@
       ]
     },
     "word.html": {
-      "settings": {},
+      "settings": {
+        "order": 8
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -1588,7 +1601,9 @@
       ]
     },
     "powerpoint.html": {
-      "settings": {},
+      "settings": {
+        "order": 9
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -1734,7 +1749,9 @@
       ]
     },
     "photoshop certification.html": {
-      "settings": {},
+      "settings": {
+        "order": 10
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -1880,7 +1897,9 @@
       ]
     },
     "premier certification.html.": {
-      "settings": {},
+      "settings": {
+        "order": 11
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -2020,7 +2039,9 @@
       ]
     },
     "audition certification.html": {
-      "settings": {},
+      "settings": {
+        "order": 12
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -2160,7 +2181,9 @@
       ]
     },
     "illustrator certification.html": {
-      "settings": {},
+      "settings": {
+        "order": 13
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -2300,7 +2323,9 @@
       ]
     },
     "mr. pate.html": {
-      "settings": {},
+      "settings": {
+        "order": 14
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -2440,7 +2465,9 @@
       ]
     },
     "anamaria delgado.html": {
-      "settings": {},
+      "settings": {
+        "order": 15
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -2580,7 +2607,9 @@
       ]
     },
     "ap physical science.html": {
-      "settings": {},
+      "settings": {
+        "order": 16
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -2721,7 +2750,8 @@
     },
     "alberto carvalho.html": {
       "settings": {
-        "title": ""
+        "title": "",
+        "order": 17
       },
       "components": [
         {
@@ -2862,7 +2892,9 @@
       ]
     },
     "contact.html": {
-      "settings": {},
+      "settings": {
+        "order": 18
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -3065,7 +3097,8 @@
     "landing page.html": {
       "settings": {
         "title": "Web Page Builder Title",
-        "meta_descr": "Web Page Builder Description"
+        "meta_descr": "Web Page Builder Description",
+        "order": 1
       },
       "components": [
         {
