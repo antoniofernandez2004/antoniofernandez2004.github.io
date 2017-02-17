@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tech Webstite",
-    "currentPage": "index.html",
+    "currentPage": "introduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.10.8",
-    "uniqCompNum": 92,
+    "uniqCompNum": 101,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -119,7 +119,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANTONIO FERNANDEZ</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -491,7 +491,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANTONIO FERNANDEZ</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -639,7 +639,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANTONIO FERNANDEZ</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -787,7 +787,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANTONIO FERNANDEZ</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -935,7 +935,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANTONIO FERNANDEZ</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -1083,7 +1083,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANTONIO FERNANDEZ</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -1231,7 +1231,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANTONIO FERNANDEZ</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -1379,7 +1379,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANTONIO FERNANDEZ</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -1525,7 +1525,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANTONIO FERNANDEZ</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -1667,7 +1667,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANTONIO FERNANDEZ</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -1809,7 +1809,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANTONIO FERNANDEZ</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -1951,7 +1951,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANTONIO FERNANDEZ</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -2093,7 +2093,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANTONIO FERNANDEZ</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -2235,7 +2235,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANTONIO FERNANDEZ</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -2378,7 +2378,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANTONIO FERNANDEZ</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -2520,7 +2520,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANTONIO FERNANDEZ</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -2731,7 +2731,320 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANTONIO FERNANDEZ</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "21px",
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header1-2k",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x15388.png",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#ffffff",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Welcome!",
+          "text": "- Learn About Me -",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Learn More</a> "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Some of My Work",
+          "meta": "Made By: Antonio Fernandez"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/antonio-fernandez-batman-logo-2000x1182-800x4720.jpg",
+                "image": "@PROJECT_PATH@/assets/images/antonio-fernandez-batman-logo-2000x11824.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/antonio-fernandez-avengers-2000x982-800x392.jpg",
+                "image": "@PROJECT_PATH@/assets/images/antonio-fernandez-avengers-2000x982.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/antonio-fernandez-hulk-logo-2000x2000-800x8001.jpg",
+                "image": "@PROJECT_PATH@/assets/images/antonio-fernandez-hulk-logo-2000x20005.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vaporina-2000x1022-800x4082.png",
+                "image": "@PROJECT_PATH@/assets/images/vaporina-2000x10226.png",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/antonio-fernandez-flash-logo-2000x1600-800x6403.jpg",
+                "image": "@PROJECT_PATH@/assets/images/antonio-fernandez-flash-logo-2000x16007.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/marvel-symbols-6-2000x1973-800x789.png",
+                "image": "@PROJECT_PATH@/assets/images/marvel-symbols-6-2000x1973.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sardonyx-800x533-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sardonyx-800x533.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lion-1-2000x1393-800x557.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lion-1-2000x1393.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-2m",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "12px"
+            },
+            "SPAN": {
+              "font-size": "13px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#ffffff"
+            },
+            "B": {
+              "font-size": "16px",
+              "color": "#7c7c7c"
+            }
+          },
+          "_anchor": "contacts1-2d",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/signature-128x42.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong>Address</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;14052 SW 38th Terr.<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Miami, FL 33175</p>",
+          "text2": "<p><font color=\"#7c7c7c\" face=\"Open Sans, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Contact</b></span></font><br><font color=\"#7c7c7c\" face=\"Open Sans, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>Email:&nbsp;afernandez@miamiartsstudio.com Phone(786)-769-4890<br>Text: &nbsp;(786)-769-4890</p>",
+          "text3": ""
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "title": "Web Page Builder Title",
+        "meta_descr": "Web Page Builder Description",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1p",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-384x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "landing page.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANTONIO FERNANDEZ</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -2747,12 +3060,12 @@
               "text-align": "right"
             }
           },
-          "_anchor": "header2-21",
+          "_anchor": "header2-2n",
           "_params": {
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x1538.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x1538-1.png",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2797,7 +3110,7 @@
           },
           "title": "All About Me",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#msg-box5-20\" data-toolbar=\"-mbrBtnMove\">My Story</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#msg-box5-2p\" data-toolbar=\"-mbrBtnMove\">My Story</a>"
         },
         {
           "_tags": [
@@ -2809,7 +3122,7 @@
               "font-size": "15px"
             }
           },
-          "_anchor": "content2-8",
+          "_anchor": "content2-2o",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
@@ -2829,7 +3142,7 @@
               "font-size": "84px"
             }
           },
-          "_anchor": "msg-box5-20",
+          "_anchor": "msg-box5-2p",
           "_params": {
             "imageSize": "22",
             "paddingTop": 0,
@@ -2882,7 +3195,7 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-1m",
+          "_anchor": "content1-2q",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -2900,7 +3213,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1g",
+          "_anchor": "header3-2r",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -2921,7 +3234,7 @@
               "background-color": "#2e2e2e"
             }
           },
-          "_anchor": "features2-1h",
+          "_anchor": "features2-2s",
           "_params": {
             "columnsColor": "#2e2e2e",
             "paddingTop": 2,
@@ -3037,319 +3350,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-size": "12px"
-            },
-            "SPAN": {
-              "font-size": "13px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#ffffff"
-            },
-            "B": {
-              "font-size": "16px",
-              "color": "#7c7c7c"
-            }
-          },
-          "_anchor": "contacts1-2d",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-128x42-3.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong>Address</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;14052 SW 38th Terr.<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Miami, FL 33175</p>",
-          "text2": "<p><font color=\"#7c7c7c\" face=\"Open Sans, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Contact</b></span></font><br><font color=\"#7c7c7c\" face=\"Open Sans, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>Email:&nbsp;afernandez@miamiartsstudio.com Phone(786)-769-4890<br>Text: &nbsp;(786)-769-4890</p>",
-          "text3": ""
-        }
-      ]
-    },
-    "index.html": {
-      "settings": {
-        "title": "Web Page Builder Title",
-        "meta_descr": "Web Page Builder Description",
-        "order": 1
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.8rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-1p",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": "0.8",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-1-384x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "landing page.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANTONIO FERNANDEZ</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"><span class=\"mbri-folder mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span>INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop.html\">Adobe PhotoShop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier.html\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">DiscussIT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"antoniofernandez2004.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">DiscussIT 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">PowerPoint</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop certification.html\">Adobe PhotoShop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audition certification.html\">Adobe Audition CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premier certification.html.\">Adobe Premier CC<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator certification.html\">Adobe Illustrator CC</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mr. pate.html\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"anamaria delgado.html\">Anamaria Delgado</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ap physical science.html\">AP Physical Science</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alberto carvalho.html\">Alberto Carvalho</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "21px",
-              "color": "#000000"
-            },
-            ".mbr-section-title": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "header1-1v",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x1538.png",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#ffffff",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "Welcome!",
-          "text": "- Learn About Me -",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Learn More</a> "
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2i",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "Some of My Work",
-          "meta": "Made By: Antonio Fernandez"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery2",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/antonio-fernandez-batman-logo-2000x1182-800x472.jpg",
-                "image": "@PROJECT_PATH@/assets/images/antonio-fernandez-batman-logo-2000x1182.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/antonio-fernandez-avengers-2000x982-800x392.jpg",
-                "image": "@PROJECT_PATH@/assets/images/antonio-fernandez-avengers-2000x982.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/antonio-fernandez-hulk-logo-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/antonio-fernandez-hulk-logo-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vaporina-2000x1022-800x408.png",
-                "image": "@PROJECT_PATH@/assets/images/vaporina-2000x1022.png",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/antonio-fernandez-flash-logo-2000x1600-800x640.jpg",
-                "image": "@PROJECT_PATH@/assets/images/antonio-fernandez-flash-logo-2000x1600.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/marvel-symbols-6-2000x1973-800x789.png",
-                "image": "@PROJECT_PATH@/assets/images/marvel-symbols-6-2000x1973.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sardonyx-800x533-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sardonyx-800x533.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lion-1-2000x1393-800x557.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lion-1-2000x1393.jpg",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery2-2j",
-          "articleLayout": false,
-          "allItem": "All"
         },
         {
           "_tags": [
