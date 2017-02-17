@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#000000",
+        "primaryColor": "#ffffff",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -113,7 +113,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-1-384x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -144,7 +144,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x15382.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x15383.png",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -596,7 +596,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x15382.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x15383.png",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -753,7 +753,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/logo-1-2000x1538-800x615.png",
-                "image": "@PROJECT_PATH@/assets/images/logo-1-2000x15382.png",
+                "image": "@PROJECT_PATH@/assets/images/logo-1-2000x15383.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3117,7 +3117,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#ffffff!important"
             }
           },
           "_name": "ext.menu",
@@ -3141,7 +3141,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-1-384x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -3175,7 +3175,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x15382.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x15383.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
