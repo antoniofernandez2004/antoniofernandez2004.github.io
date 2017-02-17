@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tech Webstite",
-    "currentPage": "index.html",
+    "currentPage": "landing page.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -144,7 +144,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x15385.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x15386.png",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -596,7 +596,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x15385.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x15386.png",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -753,7 +753,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/logo-1-2000x1538-800x615.png",
-                "image": "@PROJECT_PATH@/assets/images/logo-1-2000x15385.png",
+                "image": "@PROJECT_PATH@/assets/images/logo-1-2000x15386.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3175,7 +3175,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x15385.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x15386.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
