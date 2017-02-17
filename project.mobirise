@@ -113,7 +113,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-1-384x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "Landing Page",
+              "link": "landing page.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -144,7 +144,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x15384.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x15385.png",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -596,7 +596,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x15384.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x15385.png",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -753,7 +753,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/logo-1-2000x1538-800x615.png",
-                "image": "@PROJECT_PATH@/assets/images/logo-1-2000x15384.png",
+                "image": "@PROJECT_PATH@/assets/images/logo-1-2000x15385.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3061,7 +3061,7 @@
         }
       ]
     },
-    "Landing Page": {
+    "landing page.html": {
       "settings": {
         "title": "Web Page Builder Title",
         "meta_descr": "Web Page Builder Description"
@@ -3141,7 +3141,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-1-384x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "Landing Page",
+              "link": "landing page.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -3175,7 +3175,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x15384.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x15385.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
