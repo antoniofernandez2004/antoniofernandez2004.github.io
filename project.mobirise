@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tech Webstite",
-    "currentPage": "introduction.html",
+    "currentPage": "photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.10.8",
-    "uniqCompNum": 101,
+    "uniqCompNum": 103,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -84,7 +84,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             }
           },
           "_name": "ext.menu",
@@ -149,7 +149,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0.5",
             "overlayColor": "#fff",
             "inverse": true,
             "showTitle": true,
@@ -183,165 +183,125 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#c7fffc",
+            "showMeta": false
+          },
+          "title": "Gallery",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery4",
+          "_name": "gallery2",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "images": [
               {
-                "tags": "Marvel",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/antonio-fernandez-batman-logo-2000x1182-800x472.jpg",
-                "image": "@PROJECT_PATH@/assets/images/antonio-fernandez-batman-logo-2000x1182.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frame-batman-2000x2000-800x800-1.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-batman-2000x2000.png",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Marvel",
+                "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/antonio-fernandez-hulk-logo-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/antonio-fernandez-hulk-logo-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frame-avengers-2000x2000-800x800-1.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-avengers-2000x2000.png",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Marvel",
+                "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/antonio-fernandez-flash-logo-2000x1600-800x640.jpg",
-                "image": "@PROJECT_PATH@/assets/images/antonio-fernandez-flash-logo-2000x1600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frame-hulk-2000x2000-800x800-1.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-hulk-2000x2000.png",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Marvel",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/antonio-fernandez-avengers-symbols-2000x1973-800x789.jpg",
-                "image": "@PROJECT_PATH@/assets/images/antonio-fernandez-avengers-symbols-2000x1973.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frame-vaporina-2000x2000-800x800-1.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-vaporina-2000x2000.png",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Marvel",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/antonio-fernandez-iron-man-2000x982-800x392.jpg",
-                "image": "@PROJECT_PATH@/assets/images/antonio-fernandez-iron-man-2000x982.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Custom",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vaporina-2000x1022-800x408.png",
-                "image": "@PROJECT_PATH@/assets/images/vaporina-2000x1022.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Custom",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pokemon-battle-2000x1022-800x408.jpg",
-                "image": "@PROJECT_PATH@/assets/images/pokemon-battle-2000x1022.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Custom",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sardonyx-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sardonyx-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Custom",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/custom-instinct-pokeball-2000x1778-800x711.jpg",
-                "image": "@PROJECT_PATH@/assets/images/custom-instinct-pokeball-2000x1778.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Custom",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pokemon-wallpaper-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/pokemon-wallpaper-2000x1125.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Custom",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/logo-1-2000x1538-800x615.png",
-                "image": "@PROJECT_PATH@/assets/images/logo-1-2000x1538.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "CD Labels",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/antonio-fernandez-rough-draft-cd-label-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/antonio-fernandez-rough-draft-cd-label-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "CD Labels",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/antonio-fernandez-album-cover-inside-2000x1000-800x400.jpg",
-                "image": "@PROJECT_PATH@/assets/images/antonio-fernandez-album-cover-inside-2000x1000.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "CD Labels",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/antonio-fernandez-album-cover-1-2000x1000-800x400.jpg",
-                "image": "@PROJECT_PATH@/assets/images/antonio-fernandez-album-cover-1-2000x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frame-flash-2000x2000-800x800-1.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-flash-2000x2000.png",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frame-symbols-2000x2000-800x800-1.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-symbols-2000x2000.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frame-sardonyx-2000x2000-800x800-1.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-sardonyx-2000x2000.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frame-lion-2000x2000-800x800-1.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-lion-2000x2000.png",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
-            "spacing": 1,
+            "spacing": "1",
             "showText": false,
-            "filter": true,
-            "bgColor": "fff",
+            "filter": false,
+            "bgColor": "#c7fffc",
             "filterBgColor": false,
-            "fullWidth": false,
+            "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery4-1l",
+          "_anchor": "gallery2-2t",
           "articleLayout": false,
           "allItem": "All"
         },
@@ -2754,7 +2714,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x15388.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x153826.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2787,7 +2747,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#c7fffc",
             "showMeta": true
           },
           "title": "Some of My Work",
@@ -2808,8 +2768,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/antonio-fernandez-batman-logo-2000x1182-800x4720.jpg",
-                "image": "@PROJECT_PATH@/assets/images/antonio-fernandez-batman-logo-2000x11824.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frame-batman-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-batman-2000x200018.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2818,8 +2778,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/antonio-fernandez-avengers-2000x982-800x392.jpg",
-                "image": "@PROJECT_PATH@/assets/images/antonio-fernandez-avengers-2000x982.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frame-avengers-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-avengers-2000x200019.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2828,8 +2788,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/antonio-fernandez-hulk-logo-2000x2000-800x8001.jpg",
-                "image": "@PROJECT_PATH@/assets/images/antonio-fernandez-hulk-logo-2000x20005.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frame-hulk-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-hulk-2000x200020.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2838,28 +2798,28 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vaporina-2000x1022-800x4082.png",
-                "image": "@PROJECT_PATH@/assets/images/vaporina-2000x10226.png",
+                "thumb": "@PROJECT_PATH@/assets/images/frame-vaporina-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-vaporina-2000x200021.png",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/antonio-fernandez-flash-logo-2000x1600-800x6403.jpg",
-                "image": "@PROJECT_PATH@/assets/images/antonio-fernandez-flash-logo-2000x16007.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frame-flash-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-flash-2000x200022.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/marvel-symbols-6-2000x1973-800x789.png",
-                "image": "@PROJECT_PATH@/assets/images/marvel-symbols-6-2000x1973.png",
+                "thumb": "@PROJECT_PATH@/assets/images/frame-symbols-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-symbols-2000x200023.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2868,8 +2828,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sardonyx-800x533-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sardonyx-800x533.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frame-sardonyx-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-sardonyx-2000x200024.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2878,8 +2838,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lion-1-2000x1393-800x557.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lion-1-2000x1393.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frame-lion-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-lion-2000x200025.png",
                 "caption": "Type caption here",
                 "active": false
               }
@@ -2887,7 +2847,7 @@
             "spacing": "1",
             "showText": false,
             "filter": false,
-            "bgColor": "fff",
+            "bgColor": "#c7fffc",
             "filterBgColor": false,
             "fullWidth": true,
             "showBullets": true
