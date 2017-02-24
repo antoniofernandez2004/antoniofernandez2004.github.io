@@ -23,7 +23,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.10.8",
-    "uniqCompNum": 103,
+    "uniqCompNum": 104,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -358,6 +358,26 @@
           "text1": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong>Address</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;14052 SW 38th Terr.<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Miami, FL 33175</p>",
           "text2": "<p><font color=\"#7c7c7c\" face=\"Open Sans, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Contact</b></span></font><br><font color=\"#7c7c7c\" face=\"Open Sans, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>Email:&nbsp;afernandez@miamiartsstudio.com Phone(786)-769-4890<br>Text: &nbsp;(786)-769-4890</p>",
           "text3": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2v",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Antonio Fernandez"
         }
       ]
     },
@@ -2714,7 +2734,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x153826.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x15388.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2769,7 +2789,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-batman-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-batman-2000x200018.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-batman-2000x20000.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2779,7 +2799,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-avengers-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-avengers-2000x200019.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-avengers-2000x20001.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2789,7 +2809,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-hulk-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-hulk-2000x200020.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-hulk-2000x20002.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2799,7 +2819,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-vaporina-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-vaporina-2000x200021.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-vaporina-2000x20003.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2809,7 +2829,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-flash-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-flash-2000x200022.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-flash-2000x20004.png",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -2819,7 +2839,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-symbols-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-symbols-2000x200023.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-symbols-2000x20005.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2829,7 +2849,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-sardonyx-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-sardonyx-2000x200024.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-sardonyx-2000x20006.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2839,7 +2859,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-lion-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-lion-2000x200025.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-lion-2000x20007.png",
                 "caption": "Type caption here",
                 "active": false
               }
@@ -2909,6 +2929,26 @@
           "text1": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong>Address</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;14052 SW 38th Terr.<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Miami, FL 33175</p>",
           "text2": "<p><font color=\"#7c7c7c\" face=\"Open Sans, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Contact</b></span></font><br><font color=\"#7c7c7c\" face=\"Open Sans, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>Email:&nbsp;afernandez@miamiartsstudio.com Phone(786)-769-4890<br>Text: &nbsp;(786)-769-4890</p>",
           "text3": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2v",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Antonio Fernandez"
         }
       ]
     },
@@ -3364,6 +3404,26 @@
           "text1": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong>Address</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;14052 SW 38th Terr.<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Miami, FL 33175</p>",
           "text2": "<p><font color=\"#7c7c7c\" face=\"Open Sans, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Contact</b></span></font><br><font color=\"#7c7c7c\" face=\"Open Sans, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>Email:&nbsp;afernandez@miamiartsstudio.com Phone(786)-769-4890<br>Text: &nbsp;(786)-769-4890</p>",
           "text3": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2v",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Antonio Fernandez"
         }
       ]
     }
