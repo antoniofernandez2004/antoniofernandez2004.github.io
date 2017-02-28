@@ -1632,7 +1632,6 @@ h6,
   color: #7c7c7c;
 }
 
-
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1702,22 +1701,16 @@ h6,
 #header1-2k .mbr-section-title {
   color: #000000;
 }
-#header3-2l .mbr-section-title,
-#header3-2l .mbr-section-subtitle {
-  text-align: center;
+#msg-box2-2x .mbr-section-title {
+  color: #fff;
+  text-align: left;
 }
-#contacts1-2d P {
-  text-align: center;
-  font-size: 12px;
+#msg-box2-2x .mbr-section-subtitle {
+  color: #000000;
 }
-#contacts1-2d SPAN {
-  font-size: 13px;
-  font-family: 'Raleway', sans-serif;
+#msg-box2-2x .mbr-section-subtitle B {
   color: #ffffff;
-}
-#contacts1-2d B {
-  font-size: 16px;
-  color: #7c7c7c;
+  text-align: center;
 }
 
 #ext_menu-1p .hide-buttons .nav-btn {

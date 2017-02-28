@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tech Webstite",
-    "currentPage": "photoshop.html",
+    "currentPage": "introduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.10.8",
-    "uniqCompNum": 104,
+    "uniqCompNum": 106,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -100,7 +100,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -452,7 +452,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -600,7 +600,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -748,7 +748,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -896,7 +896,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1044,7 +1044,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1192,7 +1192,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1340,7 +1340,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1488,7 +1488,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1630,7 +1630,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1772,7 +1772,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1914,7 +1914,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -2056,7 +2056,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -2198,7 +2198,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -2341,7 +2341,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -2483,7 +2483,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -2692,7 +2692,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -2734,7 +2734,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x15388.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x153844.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2755,23 +2755,48 @@
         },
         {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle B": {
+              "color": "#ffffff",
               "text-align": "center"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-2l",
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2x",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#c7fffc",
-            "showMeta": true
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/pfWaNIv1TTI?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
           },
-          "title": "Some of My Work",
-          "meta": "Made By: Antonio Fernandez"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"photoshop.html\" data-toolbar=\"-mbrBtnMove\">Full Gallery</a>",
+          "title": "Some of my Work",
+          "text": "<font color=\"#ffffff\"><b>Made by: Antonio Fernandez</b></font>"
         },
         {
           "_inherit": "gallery1",
@@ -2789,7 +2814,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-batman-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-batman-2000x20000.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-batman-2000x200036.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2799,7 +2824,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-avengers-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-avengers-2000x20001.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-avengers-2000x200037.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2809,7 +2834,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-hulk-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-hulk-2000x20002.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-hulk-2000x200038.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2819,7 +2844,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-vaporina-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-vaporina-2000x20003.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-vaporina-2000x200039.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2829,7 +2854,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-flash-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-flash-2000x20004.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-flash-2000x200040.png",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -2839,7 +2864,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-symbols-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-symbols-2000x20005.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-symbols-2000x200041.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2849,7 +2874,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-sardonyx-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-sardonyx-2000x20006.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-sardonyx-2000x200042.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2859,7 +2884,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-lion-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-lion-2000x20007.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-lion-2000x200043.png",
                 "caption": "Type caption here",
                 "active": false
               }
@@ -2880,27 +2905,11 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-size": "12px"
-            },
-            "SPAN": {
-              "font-size": "13px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#ffffff"
-            },
-            "B": {
-              "font-size": "16px",
-              "color": "#7c7c7c"
-            }
-          },
-          "_anchor": "contacts1-2d",
+          "_name": "contacts4",
+          "_anchor": "contacts4-2w",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2910,25 +2919,37 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/signature-128x42.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+          "text1": "<strong>Address</strong><br><strong><br></strong>14052 SW 38th Terr.<br><br><br>\n<strong>Contacts</strong><br>Email: afernandez@miamiartsstudio.com Phone(786)-769-4890<br>Text:  (786)-769-4890<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><p><a href=\"photoshop.html\">Gallery</a></p><p><br></p><p><a href=\"https://www.youtube.com/channel/UCKQ1FjIrXaLHSmeHszgYDBg\" target=\"_blank\">YouTube</a></p></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "afernandez@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
             },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
             }
           },
-          "text1": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong>Address</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;14052 SW 38th Terr.<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Miami, FL 33175</p>",
-          "text2": "<p><font color=\"#7c7c7c\" face=\"Open Sans, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Contact</b></span></font><br><font color=\"#7c7c7c\" face=\"Open Sans, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>Email:&nbsp;afernandez@miamiartsstudio.com Phone(786)-769-4890<br>Text: &nbsp;(786)-769-4890</p>",
-          "text3": ""
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         },
         {
           "_tags": [
@@ -3025,7 +3046,7 @@
             "logo": true,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
