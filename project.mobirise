@@ -2700,7 +2700,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-1-384x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "landing page.html",
+              "link": "introduction.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2734,7 +2734,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x153844.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x153853.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2814,7 +2814,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-batman-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-batman-2000x200036.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-batman-2000x200045.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2824,7 +2824,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-avengers-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-avengers-2000x200037.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-avengers-2000x200046.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2834,7 +2834,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-hulk-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-hulk-2000x200038.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-hulk-2000x200047.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2844,7 +2844,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-vaporina-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-vaporina-2000x200039.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-vaporina-2000x200048.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2854,7 +2854,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-flash-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-flash-2000x200040.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-flash-2000x200049.png",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -2864,7 +2864,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-symbols-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-symbols-2000x200041.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-symbols-2000x200050.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2874,7 +2874,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-sardonyx-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-sardonyx-2000x200042.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-sardonyx-2000x200051.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2884,7 +2884,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-lion-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-lion-2000x200043.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-lion-2000x200052.png",
                 "caption": "Type caption here",
                 "active": false
               }
