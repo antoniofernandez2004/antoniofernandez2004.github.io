@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tech Webstite",
-    "currentPage": "introduction.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.10.8",
-    "uniqCompNum": 106,
+    "uniqCompNum": 108,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -2734,7 +2734,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x153853.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-1-2000x153862.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2814,7 +2814,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-batman-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-batman-2000x200045.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-batman-2000x200054.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2824,7 +2824,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-avengers-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-avengers-2000x200046.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-avengers-2000x200055.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2834,7 +2834,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-hulk-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-hulk-2000x200047.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-hulk-2000x200056.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2844,7 +2844,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-vaporina-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-vaporina-2000x200048.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-vaporina-2000x200057.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2854,7 +2854,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-flash-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-flash-2000x200049.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-flash-2000x200058.png",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -2864,7 +2864,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-symbols-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-symbols-2000x200050.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-symbols-2000x200059.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2874,7 +2874,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-sardonyx-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-sardonyx-2000x200051.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-sardonyx-2000x200060.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2884,7 +2884,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/frame-lion-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/frame-lion-2000x200052.png",
+                "image": "@PROJECT_PATH@/assets/images/frame-lion-2000x200061.png",
                 "caption": "Type caption here",
                 "active": false
               }
@@ -2920,12 +2920,12 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br><strong><br></strong>14052 SW 38th Terr.<br><br><br>\n<strong>Contacts</strong><br>Email: afernandez@miamiartsstudio.com Phone(786)-769-4890<br>Text:  (786)-769-4890<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><p><a href=\"photoshop.html\">Gallery</a></p><p><br></p><p><a href=\"https://www.youtube.com/channel/UCKQ1FjIrXaLHSmeHszgYDBg\" target=\"_blank\">YouTube</a></p></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><p><a href=\"photoshop.html\">Gallery</a></p><p><a href=\"https://www.youtube.com/channel/UCKQ1FjIrXaLHSmeHszgYDBg\" target=\"_blank\">YouTube</a></p></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "afernandez@miamiartsstudio.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks For Contacting Me!"
             },
             "fields": {
               "name": {
@@ -2949,7 +2949,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>"
         },
         {
           "_tags": [
@@ -3226,8 +3226,40 @@
         },
         {
           "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-2z",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/iron-banner-2000x1703.png",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW ME",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-reddit mbr-iconfont mbr-iconfont-btn\"></span></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>     "
+        },
+        {
+          "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -3238,7 +3270,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#2e2e2e",
             "showMeta": false
           },
           "title": "Goals",
@@ -3376,27 +3408,11 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-size": "12px"
-            },
-            "SPAN": {
-              "font-size": "13px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#ffffff"
-            },
-            "B": {
-              "font-size": "16px",
-              "color": "#7c7c7c"
-            }
-          },
-          "_anchor": "contacts1-1a",
+          "_name": "contacts4",
+          "_anchor": "contacts4-2w",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -3406,25 +3422,37 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/signature-128x42.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+          "text1": "<strong>Address</strong><br><strong><br></strong>14052 SW 38th Terr.<br><br><br>\n<strong>Contacts</strong><br>Email: afernandez@miamiartsstudio.com Phone(786)-769-4890<br>Text:  (786)-769-4890<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><p><a href=\"photoshop.html\">Gallery</a></p><p><a href=\"https://www.youtube.com/channel/UCKQ1FjIrXaLHSmeHszgYDBg\" target=\"_blank\">YouTube</a></p></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "afernandez@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks For Contacting Me!"
             },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
             }
           },
-          "text1": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong>Address</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;14052 SW 38th Terr.<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Miami, FL 33175</p>",
-          "text2": "<p><font color=\"#7c7c7c\" face=\"Open Sans, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Contact</b></span></font><br><font color=\"#7c7c7c\" face=\"Open Sans, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>Email:&nbsp;afernandez@miamiartsstudio.com Phone(786)-769-4890<br>Text: &nbsp;(786)-769-4890</p>",
-          "text3": ""
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>"
         },
         {
           "_tags": [
