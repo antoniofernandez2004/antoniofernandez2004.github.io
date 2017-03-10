@@ -1647,6 +1647,7 @@ h6,
   background-color: #2e2e2e;
 }
 
+
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1725,4 +1726,8 @@ h6,
 #msg-box2-2x .mbr-section-subtitle B {
   color: #ffffff;
   text-align: center;
+}
+#msg-box2-2x .btn {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
 }
