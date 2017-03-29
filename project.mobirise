@@ -284,6 +284,36 @@
                 "active": false
               },
               {
+                "tags": "Masterpiece Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/starry-night-antonio-fernandez-10-2000x1416-800x566.jpg",
+                "image": "@PROJECT_PATH@/assets/images/starry-night-antonio-fernandez-10-2000x1416.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Masterpiece Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/starry-night-antonio-fernandez-12-2000x1416-800x566.jpg",
+                "image": "@PROJECT_PATH@/assets/images/starry-night-antonio-fernandez-12-2000x1416.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Masterpiece Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/starry-night-antonio-fernandez-13-2000x1416-800x566.jpg",
+                "image": "@PROJECT_PATH@/assets/images/starry-night-antonio-fernandez-13-2000x1416.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
                 "tags": "Marvel",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -352,36 +382,6 @@
                 "image": "@PROJECT_PATH@/assets/images/frame-lion-800x800.png",
                 "caption": "Type caption here",
                 "active": false
-              },
-              {
-                "tags": "Masterpiece Reproduction",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/starry-night-antonio-fernandez-10-2000x1416-800x566.jpg",
-                "image": "@PROJECT_PATH@/assets/images/starry-night-antonio-fernandez-10-2000x1416.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Masterpiece Reproduction",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/starry-night-antonio-fernandez-12-2000x1416-800x566.jpg",
-                "image": "@PROJECT_PATH@/assets/images/starry-night-antonio-fernandez-12-2000x1416.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Masterpiece Reproduction",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/starry-night-antonio-fernandez-13-2000x1416-800x566.jpg",
-                "image": "@PROJECT_PATH@/assets/images/starry-night-antonio-fernandez-13-2000x1416.jpg",
-                "caption": "Type caption here",
-                "active": true
               }
             ],
             "spacing": "0",
