@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
 
 
@@ -1648,6 +1649,7 @@ h6,
 }
 
 
+
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1707,7 +1709,7 @@ h6,
 }
 #ext_menu-0 .link[aria-expanded="true"],
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
-  color: #ffffff!important;
+  color: #000000!important;
 }
 #header1-31 .mbr-section-title {
   color: #000000;
@@ -1730,4 +1732,15 @@ h6,
 #msg-box2-2x .btn {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
+}
+#msg-box2-38 .mbr-section-title {
+  color: #ffffff;
+  text-align: center;
+}
+#msg-box2-38 .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#msg-box2-38 .btn {
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
 }

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tech Webstite",
-    "currentPage": "photoshop.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.10.8",
-    "uniqCompNum": 111,
+    "uniqCompNum": 117,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -3090,7 +3090,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -3322,6 +3322,50 @@
           "allItem": "All"
         },
         {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            ".btn": {
+              "font-size": "16px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-38",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#363636",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=chJePhm2cOE\" data-toolbar=\"-mbrBtnMove\">My Video</a>",
+          "title": "Youtube Video Intro",
+          "text": ""
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -3340,7 +3384,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br><strong><br></strong>14052 SW 38th Terr.<br><br><br>\n<strong>Contacts</strong><br>Email: afernandez@miamiartsstudio.com Phone(786)-769-4890<br>Text:  (786)-769-4890<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><p><a href=\"photoshop.html\">Gallery</a></p><p><a href=\"https://www.youtube.com/channel/UCKQ1FjIrXaLHSmeHszgYDBg\" target=\"_blank\">YouTube</a></p></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><p><a href=\"photoshop.html\" class=\"text-white\">Gallery</a></p><p><a href=\"https://www.youtube.com/channel/UCKQ1FjIrXaLHSmeHszgYDBg\" target=\"_blank\" class=\"text-white\">YouTube</a></p></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "afernandez@miamiartsstudio.com",
