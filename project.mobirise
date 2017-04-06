@@ -3325,6 +3325,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -3366,7 +3369,7 @@
             "paddingBottom": 1,
             "bgColor": "#3d3d3d"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.youtube.com/channel/UCKQ1FjIrXaLHSmeHszgYDBg\" data-toolbar=\"-mbrBtnMove\">Channel</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"https://www.youtube.com/watch?v=iTwvl8H3HO4\" data-toolbar=\"-mbrBtnMove\">Introduction</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.youtube.com/channel/UCKQ1FjIrXaLHSmeHszgYDBg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Channel</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"https://www.youtube.com/watch?v=iTwvl8H3HO4\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Introduction</a>"
         },
         {
           "_tags": [
