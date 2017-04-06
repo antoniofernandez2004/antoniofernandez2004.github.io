@@ -3361,8 +3361,8 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=chJePhm2cOE\" data-toolbar=\"-mbrBtnMove\">My Video</a>",
-          "title": "Youtube Video Intro",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=chJePhm2cOE\" data-toolbar=\"-mbrBtnMove\">My Channel</a>",
+          "title": "-My Youtube Channel-",
           "text": ""
         },
         {
