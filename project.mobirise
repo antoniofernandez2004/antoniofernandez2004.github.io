@@ -23,7 +23,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.10.8",
-    "uniqCompNum": 123,
+    "uniqCompNum": 124,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -3369,7 +3369,20 @@
             "paddingBottom": 1,
             "bgColor": "#3d3d3d"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.youtube.com/channel/UCKQ1FjIrXaLHSmeHszgYDBg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Channel</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"https://www.youtube.com/watch?v=iTwvl8H3HO4\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Introduction</a>"
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"https://www.youtube.com/channel/UCKQ1FjIrXaLHSmeHszgYDBg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Channel</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"https://www.youtube.com/watch?v=iTwvl8H3HO4\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Introduction</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#3d3d3d"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"https://www.youtube.com/watch?v=O0ax8UXsOrs\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Imagine Dragons \"Make the Cut\"</a>"
         },
         {
           "_tags": [
